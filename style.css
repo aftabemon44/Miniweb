@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.main-page {
+    text-align: center;
+    color: white;
+    width: 1000px;
+    margin: 0 auto;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, .4);
+}
+
+.heading{
+    background-color: #0b2e59;
+    padding: 20px 0;
+}
+
+img{
+    min-width: 100%;
+    margin-bottom: -5px;
+}
+
+.container {
+    background-color: #413b6b;
+    padding: 40px 20px;
+}
+
+.footer {
+    background-color: #3e3e53;
+    padding: 15px 0;
+}
+
+.bottom-footer {
+    background-color: #525259;
+    padding: 10px 0;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+    
+}
+
+
